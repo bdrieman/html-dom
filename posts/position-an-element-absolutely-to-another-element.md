@@ -14,7 +14,7 @@ It's a common requirement that asks for an element to be shown absolutely to a p
 * Show a tooltip when moving the mouse over an element
 * Or show a context menu when right-clicking an element 
 
-In this post, you'll see three ways to archive that requirement. They are implemented to demonstrate the first use case where we display a popover under a given target.
+In this post, you'll see three ways to achieve that requirement. They are implemented to demonstrate the first use case where we display a popover under a given target.
 
 First of all, assume that the target and popover elements are two simple `div` elements as below:
 
